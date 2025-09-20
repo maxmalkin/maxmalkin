@@ -13,22 +13,27 @@
 - 🌱 I'm currently learning **Rust** and **Realtime Programming**
 - 📫 How to reach me: **max@malkin.io** | [LinkedIn](https://linkedin.com/in/mmalkin0)
 ## Stack
+
 **Frontend & Frameworks:**
 - JavaScript | TypeScript | React | Next.js | Astro | TailwindCSS
 - HTML5 | CSS3 | Responsive Design
+
 **Backend & Databases:**
 - Node.js | Python | Java | Go | Rust
 - PostgreSQL | MySQL | GraphQL | MongoDB | Embeddings | REST APIs
 - Mikro-ORM | Database Design
+
 **AI & ML:**
 - Claude API Integration | Fine-tuned Models
 - Natural Language Processing | Speech Recognition
 - LLM Tooling & Development
 - TensorFlow | PyTorch | OpenCV
+  
 **DevOps & Tools:**
 - Docker | GitHub Actions | GCP | CI/CD Pipelines
 - Arduino | IoT Development | Network Simulation (EVE-NG)
 - Figma | Adobe Suite | CAD Programs
+
 ## Current Role
 **Founding Software Engineer @ WISE Cities** *(Apr 2024 - Present)*
 - Automated CI/CD pipelines with GitHub, GCP, and Docker
