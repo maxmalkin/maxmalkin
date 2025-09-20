@@ -1,4 +1,5 @@
 ![Maxim's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxmalkin&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxmalkin&layout=compact&theme=radical)
 
 ## 🚀 Personal Projects
 - 💼 **[My Portfolio](https://www.malkin.io)** - Personal portfolio showcasing my projects and experience
@@ -44,7 +45,6 @@
 - **CU Boulder Racing Team** *(2024 - Present)*
 - **UW Bothell Hacks Mentor** *(2025)*
 - **UW Math Hour Olympiad Proctor** *(2024 - Present)*
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxmalkin&layout=compact&theme=radical)
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mmalkin0)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:max@malkin.io)
