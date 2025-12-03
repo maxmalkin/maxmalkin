@@ -13,10 +13,10 @@ Founding Software Engineer @ WISE Cities
 ### My Main Stack
 
 **Languages:**  
-`TypeScript` · `JavaScript` · `Go` · `Rust` · `Python` · `Java`
+`TypeScript`, `JavaScript`, `Go`, `Rust`, `Python`, `Java`
 
 **Frameworks & Tools:**  
-`React` · `Node.js` · `Next.js` · `TailwindCSS` · `PostgreSQL` · `Docker` · `Arduino`
+`React`, `Node.js`, `Next.js`, `TailwindCSS`, `PostgreSQL`, `Docker`, `Arduino`
 
 ---
 
