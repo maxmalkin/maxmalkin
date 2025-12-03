@@ -19,5 +19,3 @@ Founding Software Engineer @ WISE Cities
 `React`, `Node.js`, `Next.js`, `TailwindCSS`, `PostgreSQL`, `Docker`, `Arduino`
 
 ---
-
-![GitHub Contributions](https://ghchart.rshah.org/004225/maxmalkin)
