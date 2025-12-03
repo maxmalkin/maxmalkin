@@ -6,7 +6,8 @@ Founding Software Engineer @ WISE Cities
 
 ### Featured Stuff
 
-**[SDIFF](https://github.com/maxmalkin/sdiff)** - A performant semantic diff tool for JSON and YAML, written in Rust.
+**[SDiff](https://github.com/maxmalkin/sdiff)** - A performant semantic diff tool for JSON and YAML, written in Rust.
+**[Planty MCP](https://github.com/maxmalkin/planty-mcp)** - MCP Server for Copilot and Claude for personalized plant care. 
 
 ### My Main Stack
 
