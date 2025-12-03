@@ -2,6 +2,8 @@ Computer Science & Data Science @ CU Boulder
 <br>
 Founding Software Engineer @ WISE Cities
 
+---
+
 ### Featured Stuff
 
 **[SDIFF](https://github.com/maxmalkin/sdiff)** - A performant semantic diff tool for JSON and YAML, written in Rust.
