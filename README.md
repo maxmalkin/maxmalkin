@@ -17,4 +17,4 @@ Founding Software Engineer @ WISE Cities
 
 ---
 
-![GitHub Contributions](https://ghchart.rshah.org/409ba5/maxmalkin)
+![GitHub Contributions](https://ghchart.rshah.org/004225/maxmalkin)
