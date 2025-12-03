@@ -1,4 +1,5 @@
 Computer Science & Data Science @ CU Boulder
+
 Founding Software Engineer @ WISE Cities
 
 ### Featured Stuff
