@@ -11,6 +11,7 @@ Founding Software Engineer @ WISE Cities
 **[Planty MCP](https://github.com/maxmalkin/planty-mcp)** - MCP Server for Copilot and Claude for personalized plant care. 
 <br>
 **[Advent of Code 2025](https://github.com/maxmalkin/AdventOfCode2025)** - Solution to Advent of Code 2025 in multiple languages. 
+**[Contributing to Zed](https://github.com/zed-industries/zed)** - Fixing bugs and adding featured to the Zed IDE. 
 
 ### My Main Stack
 
