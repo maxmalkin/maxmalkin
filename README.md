@@ -12,7 +12,7 @@ Founding Software Engineer @ WISE Cities
 <br>
 **[Advent of Code 2025](https://github.com/maxmalkin/AdventOfCode2025)** - Solution to Advent of Code 2025 in multiple languages. 
 <br>
-**[Contributing to Zed](https://github.com/zed-industries/zed)** - Fixing bugs and adding featured to the Zed IDE. 
+**[Contributing to Zed](https://github.com/zed-industries/zed)** - Fixing bugs and adding features to the Zed IDE. 
 
 ### My Main Stack
 
