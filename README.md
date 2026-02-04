@@ -20,6 +20,6 @@ Founding Software Engineer @ WISE Cities
 `TypeScript`, `JavaScript`, `Rust`, `Python`, `Java`
 
 **Frameworks & Tools:**  
-`React`, `Node.js`, `Next.js`, `TailwindCSS`, `PostgreSQL`, `Docker`, `AWS`, `GCP`, etc.
+`React`, `Node.js`, `Next.js`, `TailwindCSS`, `PostgreSQL`, `Docker`, `AWS`, `GCP`
 
 ---
