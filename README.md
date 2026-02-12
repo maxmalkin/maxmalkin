@@ -14,12 +14,12 @@ Founding Software Engineer @ WISE Cities
 <br>
 **[Contributing to Zed](https://github.com/zed-industries/zed)** - Fixing bugs and adding features to the Zed IDE. 
 
-### My Main Stack
+### Stack
 
 **Languages:**  
 `TypeScript`, `JavaScript`, `Rust`, `Python`, `Java`
 
 **Frameworks & Tools:**  
-`React`, `Node.js`, `Next.js`, `TailwindCSS`, `PostgreSQL`, `Docker`, `AWS`, `GCP`
+`React`, `Node.js`, `Next.js`, `TailwindCSS`, `Flask`, `TensorFlow`,  `PostgreSQL`, `Docker`, `AWS`, `GCP`
 
 ---
