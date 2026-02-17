@@ -1,6 +1,6 @@
 Computer Science & Data Science @ CU Boulder
 <br>
-Founding Software Engineer @ WISE Cities
+Founding Software Engineer @ WISE Connect
 
 ---
 
