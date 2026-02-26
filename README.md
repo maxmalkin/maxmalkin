@@ -1,6 +1,7 @@
-Computer Science & Data Science @ CU Boulder
+<sub>Computer Science & Data Science @ CU Boulder</sub>
 <br>
-Founding Software Engineer @ WISE Connect
+<sub>Founding Software Engineer @ WISE Connect</sub>
+
 ---
 ### Featured Stuff
 **[AgentAuth](https://github.com/maxmalkin/AgentAuth)** - Capability-based authentication system for AI agents, with human-in-the-loop approvals and DPoP token binding, written in Rust.
@@ -27,4 +28,5 @@ Founding Software Engineer @ WISE Connect
 
 **Infrastructure:**  
 `Docker`, `Redis`, `GitHub Actions`, `Atlantis`, `Terraform`, `AWS`, `GCP`
+
 ---
