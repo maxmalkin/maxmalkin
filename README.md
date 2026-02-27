@@ -27,6 +27,6 @@
 `TensorFlow`, `Hugging Face`, `OpenCV`
 
 **Infrastructure:**  
-`Docker`, `Redis`, `GitHub Actions`, `Atlantis`, `Terraform`, `AWS`, `GCP`
+`Docker`, `GitHub Actions`, `Atlantis`, `Terraform`, `AWS`, `GCP`
 
 ---
