@@ -24,7 +24,7 @@
 `Node.js`, `Flask`, `Rust`, `PostgreSQL`, `NoSQL`, `Redis`
 
 **ML/AI:**  
-`TensorFlow`, `Hugging Face`, `OpenCV`
+`TensorFlow`, `Hugging Face`
 
 **Infrastructure:**  
 `Docker`, `GitHub Actions`, `Atlantis`, `Terraform`, `AWS`, `GCP`
