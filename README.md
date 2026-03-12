@@ -18,7 +18,7 @@
 `TypeScript`, `JavaScript`, `Rust`, `Python`, `Java`
 
 **Frontend:**  
-`React`, `Next.js`, `TailwindCSS`, `Vite`
+`React`, `Next.js`, `TailwindCSS`, `Vite`, `Astro`
 
 **Backend:**  
 `Node.js`, `Flask`, `Rust`, `PostgreSQL`, `NoSQL`, `Redis`
@@ -27,6 +27,6 @@
 `TensorFlow`, `Hugging Face`
 
 **Infrastructure:**  
-`Docker`, `GitHub Actions`, `Atlantis`, `Terraform`, `AWS`, `GCP`
+`Docker`, `GitHub Actions`, `Atlantis`, `Terraform`, `AWS`, `GCP`, `Vultr`
 
 ---
