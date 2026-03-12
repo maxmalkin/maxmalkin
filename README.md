@@ -4,7 +4,7 @@
 
 ---
 ### Featured Stuff
-**[AgentAuth](https://github.com/maxmalkin/AgentAuth)** - Capability-based authentication system for AI agents, with human-in-the-loop approvals and DPoP token binding, written in Rust.
+**[AgentAuth](https://github.com/maxmalkin/AgentAuth)** - Capability-based authentication system for AI agents, based on OAuth. 
 <br>
 **[SDiff](https://github.com/maxmalkin/sdiff)** - A performant semantic diff tool for JSON, YAML, and TOML, written in Rust.
 <br>
