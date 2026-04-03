@@ -27,6 +27,6 @@
 `TensorFlow`, `Hugging Face`
 
 **Infrastructure:**  
-`Docker`, `GitHub Actions`, `Atlantis`, `Terraform`, `AWS`, `GCP`, `Vultr`
+`Docker`, `GitHub Actions`, `Terraform`, `AWS`, `GCP`, `Render`
 
 ---
