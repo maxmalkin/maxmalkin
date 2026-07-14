@@ -2,20 +2,17 @@
 <br>
 <sub>Founding Software Engineer @ WISE Connect</sub>
 
-### Stack
-**Languages:**  
-`TypeScript`, `JavaScript`, `Rust`, `Python`, `Java`
+<sub>**Languages:**</sub>
+<sub>`TypeScript`, `JavaScript`, `Rust`, `Python`, `Java`</sub>
 
-**Frontend:**  
-`React`, `Next.js`, `TailwindCSS`, `Vite`, `Astro`
+<sub>**Frontend:** </sub> 
+<sub>`React`, `Next.js`, `TailwindCSS`, `Vite`, `Astro`</sub>
 
-**Backend:**  
-`Node.js`, `Flask`, `Rust`, `PostgreSQL`, `NoSQL`, `Redis`
+<sub>**Backend:**</sub>
+<sub>`Node.js`, `Flask`, `Rust`, `PostgreSQL`, `NoSQL`, `Redis`</sub>
 
-**ML/AI:**  
-`TensorFlow`, `Hugging Face`
+<sub>**ML/AI:**</sub>
+<sub>`TensorFlow`, `Hugging Face`</sub>
 
-**Infrastructure:**  
-`Docker`, `GitHub Actions`, `Terraform`, `AWS`, `GCP`, `Render`
-
----
+<sub>**Infrastructure:**</sub>  
+<sub>`Docker`, `GitHub Actions`, `Terraform`, `AWS`, `GCP`, `Render`</sub>
