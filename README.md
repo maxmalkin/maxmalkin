@@ -2,7 +2,7 @@
 <br>
 <sub>Founding Software Engineer @ WISE Connect</sub>
 
-<sub>**Languages:**</sub>
+<!-- <sub>**Languages:**</sub>
 <sub>`TypeScript`, `JavaScript`, `Rust`, `Python`, `Java`</sub>
 
 <sub>**Frontend:** </sub> 
@@ -15,4 +15,4 @@
 <sub>`TensorFlow`, `Hugging Face`</sub>
 
 <sub>**Infrastructure:**</sub>  
-<sub>`Docker`, `GitHub Actions`, `Terraform`, `AWS`, `GCP`, `Render`</sub>
+<sub>`Docker`, `GitHub Actions`, `Terraform`, `AWS`, `GCP`, `Render`</sub> -->
