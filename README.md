@@ -1,6 +1,6 @@
-<sub>Computer Science & Data Science @ CU Boulder</sub>
+Computer Science, Computer Engineering, & Data Science @ CU Boulder
 <br>
-<sub>Founding Software Engineer @ WISE Connect</sub>
+Founding Software Engineer @ WISE Connect
 
 <!-- <sub>**Languages:**</sub>
 <sub>`TypeScript`, `JavaScript`, `Rust`, `Python`, `Java`</sub>
